@@ -1,2 +1,2 @@
 # advent-of-code-2019
-Advent of Code - every day different language
+Advent of Code - everyday different language
